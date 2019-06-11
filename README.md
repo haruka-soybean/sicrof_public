@@ -6,7 +6,7 @@
 
 (for Linux/iOS)
 ~~~
-git clone https://gitlab.com/kazulagi/sicrof_public.git
+git clone https://github.com/kazulagi/sicrof_public.git
 ~~~
 
 ### アップデート方法：
